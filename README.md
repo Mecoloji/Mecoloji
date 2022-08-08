@@ -31,7 +31,3 @@ Jr. Front-end Developer
 <a href="http://www.github.com/Mecoloji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mecoloji&stroke=ffffff&background=171717&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Mecoloji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mecoloji&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
