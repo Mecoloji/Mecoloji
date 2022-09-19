@@ -3,7 +3,7 @@
 ### **_*<div align="center">I'm Mehmet Can, a Jr. Front-end Developer</div>*_**
 
 <br><b>
-🌍 I'm based in Istanbul<br>📧 You can contact me at mecoloji1@outlook.com<br>🦾 I’m currently learning Javascript and React<br>⚡ if(brain != empty){ keepCoding(); } else{ orderCoffee(); }
+🌍 I'm based in Istanbul<br>📧 You can contact me at mecoloji1@outlook.com<br>🦾 I’m currently learning Typescript and React<br>⚡ if(brain != empty){ keepCoding(); } else{ orderCoffee(); }
 
 <br>
 <br>
