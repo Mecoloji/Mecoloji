@@ -49,6 +49,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mecoloji&theme=chartreuse-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mecoloji&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<a href="http://www.github.com/mecoloji"><img src="https://activity-graph.herokuapp.com/graph?username=mecoloji&bg_color=000000&color=14b8a6&line=22c55e&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 </div>
 
 <br>
